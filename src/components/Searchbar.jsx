@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { searchPokemon } from "../api";
 import { Pokemon } from "./Pokemon";
+import './Pokemons.css'
 
 
 export const Searchbar = () => {
